@@ -8,7 +8,7 @@ Images/Gifs are provided where appropriate to help further demonstrate explanati
 
 Code in this game was shared between myself and another programmer, no direct script was written by one of us exactly
 
-![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/AlwaysABiggerFish.GIF "Gif Showing gameplay")
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/AlwaysABiggerFish.gif "Gif Showing gameplay")
 
 ### Past Echoes (Windows Game) (C#)
 ###### Second year Group Project in which we created a story based adventure/exploration game where the majority of visuals are removed and the focus is on sound to learn and interact to progress through the story.
@@ -17,7 +17,7 @@ All Code in this game was done by me
 
 *Playable at: https://alexturnbull.itch.io/past-echoes-group-4*
 
-![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PastEchoes.GIF "Gif Showing basic gameplay")
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PastEchoes.gif "Gif Showing basic gameplay")
 
 
 ### Interactive AI Agents (C++)
