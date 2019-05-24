@@ -43,7 +43,14 @@ This project here demonstrates the use of various AI implementation and how they
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/s192255-GameEngine/s192255-GameEngine/Source*
 
+As part of second year, we were tasked to create a basic implementation of a 2D Game Engine. We had to consider the following:
+* Rendering 			- SFML
+* User Input			- SFML
+* Resource Management	- Self Handled
+* Scene Management		- Self Handled
+* Physics				- Box2D
 
+Third party libraries handled most of the basic principles for the engine however 
 
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/GameEngine.PNG "The Game World created by the Game Engine")
 
@@ -51,7 +58,6 @@ This project here demonstrates the use of various AI implementation and how they
 ###### A small program I created as part of my first year that takes in an input string and converts it into Huffman Code.
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/HuffmanEncoding/HuffmanEncoding*
-
 
 
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/HuffmanEncoding.PNG "Demonstration of Encoding 'Hello World!' into Huffman Code")
