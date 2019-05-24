@@ -50,7 +50,9 @@ As part of second year, we were tasked to create a basic implementation of a 2D 
 * Scene Management		- Self Handled
 * Physics				- Box2D
 
-Third party libraries handled most of the basic principles for the engine however 
+Third party libraries handled most of the basic principles for the engine however all of the seperate parts of the engine had to be developed from scratch and they all come together to demonstrate a very basic proof of concept - showing a scene can be loaded in the game world with a playable character that can interact with the environment.
+
+My Game Engine was created in mind for a 2D Platforming/Puzzle game, where the player would have to move an object to a certain place in order to progress. Gameplay wasn't fully developed however concept is there.
 
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/GameEngine.PNG "The Game World created by the Game Engine")
 
