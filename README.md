@@ -23,3 +23,4 @@ Playable at: https://alexturnbull.itch.io/past-echoes-group-4
 
 ### Huffman Encoding (C#)
 ###### A small program I created as part of my first year that takes in an input string and converts it into Huffman Code.
+![alt text](HuffmanEncoding.png "Demonstration of Encoding 'Hello World!' into Huffman Code")
