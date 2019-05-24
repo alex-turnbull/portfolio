@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader_Table
+  m_Shader: {fileID: 4800000, guid: 79cd777edcf9d8345a91f7127358fdce, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f6ebf4486e395c347a5064f09ace7f88, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _MaxTriSize: 25
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Radius: 1.1668379
+    - _Radius1: 9.011502
+    - _Radius2: 8.792433
+    - _Radius3: 4.111425
+    - _Radius4: 9.040404
+    - _Radius5: 9.02486
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _WireSmoothness: 3
+    - _WireThickness: 130
+    - _ZWrite: 1
+    m_Colors:
+    - _BaseColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Center: {r: -5.7053757, g: -0.7718159, b: 17.605686, a: 0}
+    - _Center1: {r: 74.98083, g: 0.22003329, b: 8.181508, a: 0}
+    - _Center2: {r: 77.122284, g: 1.7328421, b: 11.742729, a: 0}
+    - _Center3: {r: 80.129, g: 0.24013977, b: 4.8899765, a: 0}
+    - _Center4: {r: 73.01966, g: 1.8642985, b: 11.415905, a: 0}
+    - _Center5: {r: 74.20187, g: 0.2566263, b: 5.9042683, a: 0}
+    - _Color: {r: 0.6226415, g: 0.48531199, b: 0.29076183, a: 1}
+    - _Color1: {r: 0.6226415, g: 0.48531199, b: 0.29076183, a: -0.010000017}
+    - _Color2: {r: 0.6226415, g: 0.48531199, b: 0.29076183, a: 0.07999998}
+    - _Color3: {r: 0.6226415, g: 0.48531199, b: 0.29076183, a: 0.29}
+    - _Color4: {r: 0.6226415, g: 0.48531199, b: 0.29076183, a: -0.010000017}
+    - _Color5: {r: 0.6226415, g: 0.48531199, b: 0.29076183, a: -0.010000017}
+    - _ColorBase: {r: 0.6226415, g: 0.48531199, b: 0.29076183, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _WireColor: {r: 0, g: 1, b: 0, a: 1}

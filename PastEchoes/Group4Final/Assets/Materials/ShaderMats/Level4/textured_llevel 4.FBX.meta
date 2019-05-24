@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: a5f7af89a38c98b4fa6c41fcf6c14c62
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bed
+    100002: bedside_cab
+    100004: blanket2
+    100006: box
+    100008: chair
+    100010: curtains001
+    100012: curtainsupport
+    100014: door
+    100016: drawers
+    100018: mirror
+    100020: monitor
+    100022: pillow
+    100024: Room4
+    100026: shower
+    100028: sink
+    100030: storage_unit_2
+    100032: storage_units
+    100034: system
+    100036: //RootNode
+    100038: toilet
+    400000: bed
+    400002: bedside_cab
+    400004: blanket2
+    400006: box
+    400008: chair
+    400010: curtains001
+    400012: curtainsupport
+    400014: door
+    400016: drawers
+    400018: mirror
+    400020: monitor
+    400022: pillow
+    400024: Room4
+    400026: shower
+    400028: sink
+    400030: storage_unit_2
+    400032: storage_units
+    400034: system
+    400036: //RootNode
+    400038: toilet
+    2100000: 'Material #2'
+    2100002: 'Material #5'
+    2100004: No Name
+    2100006: 'Material #8'
+    2100008: 'Material #11'
+    2100010: 'Material #16'
+    2100012: 'Material #12'
+    2100014: 'Material #4'
+    2100016: 'Material #9'
+    2100018: 'Material #6'
+    2100020: 'Material #10'
+    2100022: 'Material #14'
+    2100024: 'Material #13'
+    2100026: 'Material #3'
+    2100028: 'Material #7'
+    2300000: bed
+    2300002: bedside_cab
+    2300004: blanket2
+    2300006: box
+    2300008: chair
+    2300010: curtains001
+    2300012: curtainsupport
+    2300014: door
+    2300016: drawers
+    2300018: mirror
+    2300020: monitor
+    2300022: pillow
+    2300024: Room4
+    2300026: shower
+    2300028: sink
+    2300030: storage_unit_2
+    2300032: storage_units
+    2300034: system
+    2300036: toilet
+    3300000: bed
+    3300002: bedside_cab
+    3300004: blanket2
+    3300006: box
+    3300008: chair
+    3300010: curtains001
+    3300012: curtainsupport
+    3300014: door
+    3300016: drawers
+    3300018: mirror
+    3300020: monitor
+    3300022: pillow
+    3300024: Room4
+    3300026: shower
+    3300028: sink
+    3300030: storage_unit_2
+    3300032: storage_units
+    3300034: system
+    3300036: toilet
+    4300000: Room4
+    4300002: bed
+    4300004: pillow
+    4300006: blanket2
+    4300008: curtainsupport
+    4300010: curtains001
+    4300012: door
+    4300014: sink
+    4300016: toilet
+    4300018: storage_units
+    4300020: mirror
+    4300022: drawers
+    4300024: shower
+    4300026: bedside_cab
+    4300028: monitor
+    4300030: system
+    4300032: storage_unit_2
+    4300034: chair
+    4300036: box
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

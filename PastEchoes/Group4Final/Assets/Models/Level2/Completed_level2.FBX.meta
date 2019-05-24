@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: caac9eae4a39f8f41b186631391db573
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bin
+    100002: bincop2
+    100004: bincop3
+    100006: bincop4
+    100008: bincopy
+    100010: bincopy1
+    100012: brokentoilet
+    100014: brokentoiletcopy
+    100016: broom
+    100018: cartoonbox
+    100020: cartoonboxcopy
+    100022: //RootNode
+    100024: door1
+    100026: door2
+    100028: level
+    100030: sink
+    100032: sink2
+    100034: toilet
+    100036: toiletcopy
+    100038: toiletcopy2
+    400000: bin
+    400002: bincop2
+    400004: bincop3
+    400006: bincop4
+    400008: bincopy
+    400010: bincopy1
+    400012: brokentoilet
+    400014: brokentoiletcopy
+    400016: broom
+    400018: cartoonbox
+    400020: cartoonboxcopy
+    400022: //RootNode
+    400024: door1
+    400026: door2
+    400028: level
+    400030: sink
+    400032: sink2
+    400034: toilet
+    400036: toiletcopy
+    400038: toiletcopy2
+    2100000: No Name
+    2300000: bin
+    2300002: bincop2
+    2300004: bincop3
+    2300006: bincop4
+    2300008: bincopy
+    2300010: bincopy1
+    2300012: brokentoilet
+    2300014: brokentoiletcopy
+    2300016: broom
+    2300018: cartoonbox
+    2300020: cartoonboxcopy
+    2300022: door1
+    2300024: door2
+    2300026: level
+    2300028: sink
+    2300030: sink2
+    2300032: toilet
+    2300034: toiletcopy
+    2300036: toiletcopy2
+    3300000: bin
+    3300002: bincop2
+    3300004: bincop3
+    3300006: bincop4
+    3300008: bincopy
+    3300010: bincopy1
+    3300012: brokentoilet
+    3300014: brokentoiletcopy
+    3300016: broom
+    3300018: cartoonbox
+    3300020: cartoonboxcopy
+    3300022: door1
+    3300024: door2
+    3300026: level
+    3300028: sink
+    3300030: sink2
+    3300032: toilet
+    3300034: toiletcopy
+    3300036: toiletcopy2
+    4300000: level
+    4300002: toilet
+    4300004: sink
+    4300006: sink2
+    4300008: door1
+    4300010: door2
+    4300012: cartoonbox
+    4300014: broom
+    4300016: cartoonboxcopy
+    4300018: bin
+    4300020: bincopy
+    4300022: bincopy1
+    4300024: bincop2
+    4300026: bincop3
+    4300028: bincop4
+    4300030: toiletcopy
+    4300032: toiletcopy2
+    4300034: brokentoilet
+    4300036: brokentoiletcopy
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
