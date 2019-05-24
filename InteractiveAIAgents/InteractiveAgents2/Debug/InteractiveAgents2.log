@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (InteractiveAgents2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  InteractiveAgents.cpp
+c:\users\alext\documents\github\interactive-agents-alex-turnbull\interactiveaiagents\interactiveagents2\interactiveagents.cpp(13): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  InteractiveAgents2.vcxproj -> C:\Users\alext\Documents\GitHub\interactive-agents-alex-turnbull\InteractiveAIAgents\Debug\InteractiveAgents.exe
