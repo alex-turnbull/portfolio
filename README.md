@@ -1,5 +1,5 @@
 # Alex Turnbull Portfolio
-###### Here area various projects I have worked on during my time at University so far:
+**Here are various projects I have worked on during my time at University so far:**
 Images/Gifs are provided where appropriate to help further demonstrate explanations. Each project will be included in this repo and source code will be linked for each project.
 
 ### Always a Bigger Fish (Mobile Game) (C#)
