@@ -19,7 +19,7 @@ Images/Gifs are provided where appropriate to help further demonstrate explanati
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/PastEchoes/Group4Final/Assets/Scripts*
 
-*All Code in this game was done by me.*
+All Code in this game was done by me.
 
 *Playable at: https://alexturnbull.itch.io/past-echoes-group-4*
 
