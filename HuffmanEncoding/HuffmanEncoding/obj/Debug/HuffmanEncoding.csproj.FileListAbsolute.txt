@@ -1,0 +1,7 @@
+C:\Users\alext\Documents\GitHub\huffman-code-alex-turnbull\HuffmanEncoding\HuffmanEncoding\bin\Debug\HuffmanEncoding.exe.config
+C:\Users\alext\Documents\GitHub\huffman-code-alex-turnbull\HuffmanEncoding\HuffmanEncoding\bin\Debug\HuffmanEncoding.exe
+C:\Users\alext\Documents\GitHub\huffman-code-alex-turnbull\HuffmanEncoding\HuffmanEncoding\bin\Debug\HuffmanEncoding.pdb
+C:\Users\alext\Documents\GitHub\huffman-code-alex-turnbull\HuffmanEncoding\HuffmanEncoding\obj\Debug\HuffmanEncoding.csprojAssemblyReference.cache
+C:\Users\alext\Documents\GitHub\huffman-code-alex-turnbull\HuffmanEncoding\HuffmanEncoding\obj\Debug\HuffmanEncoding.csproj.CoreCompileInputs.cache
+C:\Users\alext\Documents\GitHub\huffman-code-alex-turnbull\HuffmanEncoding\HuffmanEncoding\obj\Debug\HuffmanEncoding.exe
+C:\Users\alext\Documents\GitHub\huffman-code-alex-turnbull\HuffmanEncoding\HuffmanEncoding\obj\Debug\HuffmanEncoding.pdb
