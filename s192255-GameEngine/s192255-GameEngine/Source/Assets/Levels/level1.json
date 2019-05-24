@@ -1,0 +1,58 @@
+{
+"Object_1" : {
+"Type" : "Player",
+"Position" : [550, 200],
+"Rotation" : 0,
+"Sprite" : "pirate"
+},
+
+"Object_2" : {
+"Type" : "Platform",
+"Position" : [500, 500],
+"Rotation" : 0,
+"Sprite" : "floorTex"
+},
+
+"Object_3" : {
+"Type" : "Platform",
+"Position" : [500, 700],
+"Rotation" : 90,
+"Sprite" : "floorTex"
+},
+
+"Object_4" : {
+"Type" : "Platform",
+"Position" : [100, 1000],
+"Rotation" : 0,
+"Sprite" : "floorTex"
+},
+
+"Object_5" : {
+"Type" : "Platform",
+"Position" : [400, 1000],
+"Rotation" : 0,
+"Sprite" : "floorTex"
+},
+
+"Object_6" : {
+"Type" : "Platform",
+"Position" : [800, 1000],
+"Rotation" : 0,
+"Sprite" : "floorTex"
+},
+
+"Object_6" : {
+"Type" : "Platform",
+"Position" : [1200, 1000],
+"Rotation" : 0,
+"Sprite" : "floorTex"
+},
+
+"Object_7" : {
+"Type" : "Ball",
+"Position" : [600, 200],
+"Rotation" : 0,
+"Sprite" : "ball"
+}
+
+}
