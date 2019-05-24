@@ -20,7 +20,7 @@ Images/Gifs are provided where appropriate to help further demonstrate explanati
 ### 2D Game Engine (C++)
 ###### A second year project which is an implementation of a 2D Game Engine using SFML and Box2D.
 
-![](https://github.com/alex-turnbull/portfolio/blob/master/Images/GameEngine.PNG "The Game World created by the Game Engine")
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/GameEngine.PNG "The Game World created by the Game Engine")
 
 ### Huffman Encoding (C#)
 ###### A small program I created as part of my first year that takes in an input string and converts it into Huffman Code.
@@ -29,4 +29,4 @@ Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/m
 
 
 
-![](https://github.com/alex-turnbull/portfolio/blob/master/Images/HuffmanEncoding.PNG "Demonstration of Encoding 'Hello World!' into Huffman Code")
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/HuffmanEncoding.PNG "Demonstration of Encoding 'Hello World!' into Huffman Code")
