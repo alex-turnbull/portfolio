@@ -8,7 +8,9 @@ Images/Gifs are provided where appropriate to help further demonstrate explanati
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/AlwaysABiggerFish/Game%20Project%20-%20Unity/Fishing/Assets/Scripts*
 
-Code in this game was shared between myself and another programmer, no direct script was written by one of us exactly
+*Code in this game was shared between myself and another programmer, no direct script was written by one of us exactly.*
+
+
 
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/AlwaysABiggerFish.gif "Gif Showing gameplay")
 
@@ -17,7 +19,7 @@ Code in this game was shared between myself and another programmer, no direct sc
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/PastEchoes/Group4Final/Assets/Scripts*
 
-All Code in this game was done by me
+*All Code in this game was done by me.*
 
 *Playable at: https://alexturnbull.itch.io/past-echoes-group-4*
 
