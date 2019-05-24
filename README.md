@@ -23,7 +23,7 @@ All Code in this game was done by me
 ### Interactive AI Agents (C++)
 ###### A second year project demonstrating the creation of various AI implementation including: Finite State Machines, Steering Behaviours and PathFinding.
 
-![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PathFinding.GIF "Gif Showing the Pathfinding/Traversal")
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PathFinding.gif "Gif Showing the Pathfinding/Traversal")
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/StateMachine.PNG "Image of the StateMachine of the pirate")
 
 ### 2D Game Engine (C++)
