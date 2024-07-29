@@ -19,6 +19,8 @@ Hatchapon is a co-op 3D physics platformer about two ducks who solve puzzles, co
 *Demo playable at: https://monkey-hat-games.itch.io/hatchapon*
 
 *Gameplay video here: https://www.youtube.com/watch?v=MxiWln096Dg*
+
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/hatchapon.gif "Gif Showing gameplay")
 <br>
 <br>
 
