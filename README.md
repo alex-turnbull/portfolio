@@ -1,9 +1,56 @@
 # Alex Turnbull Portfolio
-**Here are various projects I have worked on during my time at University so far:**
+Technical developer with 5+ years of professional experience as a Unity developer creating immersive and interactive applications in a wide range of disciplines.
 
-Images/Gifs are provided where appropriate to help further demonstrate explanations. Each project will be included in this repo and source code will be linked for each project.
+Background and interest in Game Development. Partook in the Tranzfuser development programme. Previously lead a small indie team called Monkey Hat Games with a published game on Armor Games.
 
-### Always a Bigger Fish (Mobile Game) (C#)
+Projects below showcase work I've done during my time at University and early professional career.
+
+<br>
+<br>
+
+## Hatchapon (Windows Game) (Unity / C#) [Monkey Hat Games]
+###### Final year Group Project, this was then taking forward to developed on further for the Tranzfuzer programme.
+
+Hatchapon is a co-op 3D physics platformer about two ducks who solve puzzles, collect eggs from islands, and build up their ranch.
+
+*Majority of code in this game was done by me - supported by a team member* 
+
+#### Won best game at Game Anglia Indie Showcase 2019.
+*Demo playable at: https://monkey-hat-games.itch.io/hatchapon*
+
+*Gameplay video here: https://www.youtube.com/watch?v=MxiWln096Dg*
+<br>
+<br>
+
+## DreamHopper (Windows Game) (Unity / C#) [Monkey Hat Games]
+###### Initally was made during Jamfuser 2020, a 72 hour game jam hosted by Tranzfuser as part of the programme - the theme was "Leap".
+DreamHopper is about the story of a grasshopper who can't jump - but gains the ability to leap through his dreams.
+
+*Vast majority of code in this game was done by me - supported by a team member* 
+
+#### Won best game of the game jam and was then published on Armor Games.
+*Playable at Armor Games: https://armorgames.com/dreamhopper-game/18942*
+
+*Gameplay video here: https://www.youtube.com/watch?v=9jbHOc3_xCY*
+
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/dreamhopper.gif "Gif Showing gameplay")
+
+<br>
+<br>
+
+## StarWeaver (Windows Game) (Unity / C#) [Monkey Hat Games]
+###### Made for Global Game Jam 2020 on-site at the University of Suffolk. 
+The stars are falling and your camp is in disarray. Return the stars to the night sky using the power of your magical paintbrush, and use their energy to repair your friends' items.
+
+*Vast majority of code in this game was done by me - supported by a team member* 
+
+#### Won best game on-site
+*Playable at: https://monkey-hat-games.itch.io/starweaver*
+
+<br>
+<br>
+
+## Always a Bigger Fish (Mobile Game) (Unity / C#)
 ###### First year Group Project which is local 2 player mobile fishing based game where players compete to obtain the best haul of fish.
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/AlwaysABiggerFish/Game%20Project%20-%20Unity/Fishing/Assets/Scripts*
@@ -14,7 +61,10 @@ This was part of a 12 week project in which we had to make a game that fit a bri
 
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/AlwaysABiggerFish.gif "Gif Showing gameplay")
 
-### Past Echoes (Windows Game) (C#)
+<br>
+<br>
+
+## Past Echoes (Windows Game) (Unity / C#)
 ###### Second year Group Project in which we created a story based adventure/exploration game where the majority of visuals are removed and the focus is on sound to learn and interact to progress through the story.
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/PastEchoes/Group4Final/Assets/Scripts*
@@ -27,8 +77,10 @@ This game was my second year 12 week group project piece. We again had to follow
 
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PastEchoes.gif "Gif Showing basic gameplay")
 
+<br>
+<br>
 
-### Interactive AI Agents (C++)
+## Interactive AI Agents (C++)
 ###### A second year project demonstrating the creation of various AI implementation including: Finite State Machines, Steering Behaviours and PathFinding.
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/InteractiveAIAgents/InteractiveAgents2*
@@ -38,7 +90,10 @@ This project here demonstrates the use of various AI implementation and how they
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PathFinding.gif "Gif Showing the Pathfinding/Traversal")
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/StateMachine.PNG "Image of the StateMachine of the pirate")
 
-### 2D Game Engine (C++)
+<br>
+<br>
+
+## 2D Game Engine (C++)
 ###### A second year project which is an implementation of a 2D Game Engine using SFML and Box2D.
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/s192255-GameEngine/s192255-GameEngine/Source*
@@ -56,7 +111,10 @@ My Game Engine was created in mind for a 2D Platforming/Puzzle game, where the p
 
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/GameEngine.PNG "The Game World created by the Game Engine")
 
-### Huffman Encoding (C#)
+<br>
+<br>
+
+## Huffman Encoding (C#)
 ###### A small program I created as part of my first year that takes in an input string and converts it into Huffman Code.
 
 *Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/HuffmanEncoding/HuffmanEncoding*
