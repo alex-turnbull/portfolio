@@ -49,6 +49,8 @@ The stars are falling and your camp is in disarray. Return the stars to the nigh
 #### Won best game on-site
 *Playable at: https://monkey-hat-games.itch.io/starweaver*
 
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/starweaver.gif "Gif Showing gameplay")
+
 <br>
 <br>
 
