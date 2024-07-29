@@ -54,6 +54,16 @@ The stars are falling and your camp is in disarray. Return the stars to the nigh
 <br>
 <br>
 
+## 5G Edge XR (Unity / C#) [BT Group]
+###### DCMS Government funded research project, exploring how 5G networks, in combination with cloud graphics processing units, can provide immersive experiences.
+
+I was the lead Unity developer creating 5 proof of concepts to demonstrate the capabilities of 5G paired with GPU compute over CloudXR.
+
+#### Won 2 awards at IBC 2022: Best Technical Paper, Content Everywhere Innovation Award
+
+<br>
+<br>
+
 ## Always a Bigger Fish (Mobile Game) (Unity / C#)
 ###### First year Group Project which is local 2 player mobile fishing based game where players compete to obtain the best haul of fish.
 
