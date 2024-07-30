@@ -13,6 +13,10 @@ Projects below showcase work I've done during my time at University and early pr
 
 Hatchapon is a co-op 3D physics platformer about two ducks who solve puzzles, collect eggs from islands, and build up their ranch.
 
+I was the Team Lead and Lead Developer. As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, physics, gameplay, progression.
+
+Being the Team Lead of this project through the Tranzfuser programme, this required project management, generating monthly reoprts, budgeting and pitching for funding.
+
 *Majority of code in this game was done by me - supported by a team member* 
 
 #### Won best game at Game Anglia Indie Showcase 2019.
