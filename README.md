@@ -13,11 +13,15 @@ Projects below showcase work I've done during my time at University and early pr
 
 "Hatchapon is a co-op 3D physics platformer about two ducks who solve puzzles, collect eggs from islands, and build up their ranch."
 
+<br>
+
 I was the Team Lead and Lead Developer. As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, local co-op, physics, gameplay, progression.
 
 Being the Team Lead of this project through the Tranzfuser programme, this required project management, generating monthly reoprts, budgeting and pitching for funding.
 
 *Majority of code in this game was done by me - supported by a team member* 
+
+<br>
 
 #### Won best game at Game Anglia Indie Showcase 2019.
 *Demo playable at: https://monkey-hat-games.itch.io/hatchapon*
@@ -32,9 +36,13 @@ Being the Team Lead of this project through the Tranzfuser programme, this requi
 ###### Initally was made during Jamfuser 2020, a 72 hour game jam hosted by Tranzfuser as part of the programme - the theme was "Leap".
 "DreamHopper is about the story of a grasshopper who can't jump - but gains the ability to leap through his dreams."
 
+<br>
+
 As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, AI, physics, gameplay, progression.
 
 *Vast majority of code in this game was done by me - supported by a team member* 
+
+<br>
 
 #### Won best game of the game jam and was then published on Armor Games.
 *Playable at Armor Games: https://armorgames.com/dreamhopper-game/18942*
@@ -50,10 +58,13 @@ As the Lead Developer I created all of the core mechanics within the game, inclu
 ###### Made for Global Game Jam 2020 on-site at the University of Suffolk. 
 "The stars are falling and your camp is in disarray. Return the stars to the night sky using the power of your magical paintbrush, and use their energy to repair your friends' items."
 
+<br>
 
 As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, gameplay, progression.
 
 *Vast majority of code in this game was done by me - supported by a team member* 
+
+<br>
 
 #### Won best game on-site
 *Playable at: https://monkey-hat-games.itch.io/starweaver*
@@ -74,6 +85,7 @@ Technologies used over the projects:
 - Remote server connections
 - Live IoT data integration
 
+<br>
 
 #### Won 2 awards at IBC 2022: Best Technical Paper, Content Everywhere Innovation Award
 
