@@ -11,9 +11,9 @@ Projects below showcase work I've done during my time at University and early pr
 ## Hatchapon (Windows Game) (Unity / C#) [Monkey Hat Games]
 ###### Final year Group Project, this was then taking forward to developed on further for the Tranzfuzer programme.
 
-Hatchapon is a co-op 3D physics platformer about two ducks who solve puzzles, collect eggs from islands, and build up their ranch.
+"Hatchapon is a co-op 3D physics platformer about two ducks who solve puzzles, collect eggs from islands, and build up their ranch."
 
-I was the Team Lead and Lead Developer. As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, physics, gameplay, progression.
+I was the Team Lead and Lead Developer. As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, local co-op, physics, gameplay, progression.
 
 Being the Team Lead of this project through the Tranzfuser programme, this required project management, generating monthly reoprts, budgeting and pitching for funding.
 
@@ -30,7 +30,9 @@ Being the Team Lead of this project through the Tranzfuser programme, this requi
 
 ## DreamHopper (Windows Game) (Unity / C#) [Monkey Hat Games]
 ###### Initally was made during Jamfuser 2020, a 72 hour game jam hosted by Tranzfuser as part of the programme - the theme was "Leap".
-DreamHopper is about the story of a grasshopper who can't jump - but gains the ability to leap through his dreams.
+"DreamHopper is about the story of a grasshopper who can't jump - but gains the ability to leap through his dreams."
+
+As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, AI, physics, gameplay, progression.
 
 *Vast majority of code in this game was done by me - supported by a team member* 
 
@@ -46,7 +48,10 @@ DreamHopper is about the story of a grasshopper who can't jump - but gains the a
 
 ## StarWeaver (Windows Game) (Unity / C#) [Monkey Hat Games]
 ###### Made for Global Game Jam 2020 on-site at the University of Suffolk. 
-The stars are falling and your camp is in disarray. Return the stars to the night sky using the power of your magical paintbrush, and use their energy to repair your friends' items.
+"The stars are falling and your camp is in disarray. Return the stars to the night sky using the power of your magical paintbrush, and use their energy to repair your friends' items."
+
+
+As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, gameplay, progression.
 
 *Vast majority of code in this game was done by me - supported by a team member* 
 
@@ -62,6 +67,13 @@ The stars are falling and your camp is in disarray. Return the stars to the nigh
 ###### DCMS Government funded research project, exploring how 5G networks, in combination with cloud graphics processing units, can provide immersive experiences.
 
 I was the lead Unity developer creating 5 proof of concepts to demonstrate the capabilities of 5G paired with GPU compute over CloudXR.
+
+Technologies used over the projects:
+- Unity HDRP
+- Volumetric Video
+- Remote server connections
+- Live IoT data integration
+
 
 #### Won 2 awards at IBC 2022: Best Technical Paper, Content Everywhere Innovation Award
 
