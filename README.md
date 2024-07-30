@@ -61,7 +61,9 @@ I was the lead Unity developer creating 5 proof of concepts to demonstrate the c
 
 #### Won 2 awards at IBC 2022: Best Technical Paper, Content Everywhere Innovation Award
 
-![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/5gedgexr.mp4 "5G EdgeXR Overview")
+*Higher quality video here: https://drive.google.com/file/d/1hO9-7vO7UDJz7ZykAqHUVZHHhK06KOpU/view?usp=sharing*
+
+https://github.com/user-attachments/assets/d69653d1-ebad-4f39-9923-ca3b1895058a
 
 <br>
 <br>
