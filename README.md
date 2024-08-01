@@ -96,6 +96,18 @@ https://github.com/user-attachments/assets/d69653d1-ebad-4f39-9923-ca3b1895058a
 <br>
 <br>
 
+## Additional CloudXR Demos
+###### Demonstrations made for customers exploring the benefits and capabilites that remote rendering can add.
+
+A couple of extra demonstrations that I lead the development on to help with discussions for customers intrested in our research around CloudXR.
+
+*Higher quality video here: https://drive.google.com/file/d/1fVszmmfy3M7IS76-ABiU5a2y-1thptoP/view?usp=sharing*
+
+https://github.com/user-attachments/assets/737f8d0d-76bf-4d84-aa04-3e394340093e
+
+<br>
+<br>
+
 ## Always a Bigger Fish (Mobile Game) (Unity / C#)
 ###### First year Group Project which is local 2 player mobile fishing based game where players compete to obtain the best haul of fish.
 
