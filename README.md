@@ -17,7 +17,7 @@ Projects below showcase work I've done during my time at University and early pr
 
 I was the Team Lead and Lead Developer. As the Lead Developer I created all of the core mechanics within the game, including but not limied to: Character controller, local co-op, physics, gameplay, progression.
 
-Being the Team Lead of this project through the Tranzfuser programme, this required project management, generating monthly reoprts, budgeting and pitching for funding.
+Being the Team Lead of this project through the Tranzfuser programme, this required project management, generating monthly reports, budgeting and pitching for funding.
 
 *Majority of code in this game was done by me - supported by a team member* 
 
