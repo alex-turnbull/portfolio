@@ -79,6 +79,16 @@ As the Lead Developer I created all of the core mechanics within the game, inclu
 
 I was the lead Unity developer creating 5 proof of concepts to demonstrate the capabilities of 5G paired with GPU compute over CloudXR.
 
+**MotoGP:** expanding from beyond the single screen experience, bring the race to life and giving users access to all of the data and camera feeds available to enhance the viewing experience and customise to what they want to see.
+
+**Dance:** using volumetric video and AR teach dance in a whole new way - be able to follow and learn the movements in a whole new way instead of just looking at flat video.
+
+**Boxing:** using volumetric video bring boxing to life in your living room, see the boxers in 3D to ensure you always have the best viewing angle.
+
+**Medical:** enhancing the viewing of medical DICOM data using 3D to help bring data into context, for viewing, training and collboration.
+
+**Stadium:** using your phone as a magic mirror onto the pitch getting access to pundtry-level tools and visualisations live as the match happens.
+
 Technologies used over the projects:
 - Unity HDRP
 - Volumetric Video
