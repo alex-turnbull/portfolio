@@ -118,6 +118,40 @@ https://github.com/user-attachments/assets/737f8d0d-76bf-4d84-aa04-3e394340093e
 <br>
 <br>
 
+## 2D Game Engine (C++)
+###### A second year project which is an implementation of a 2D Game Engine using SFML and Box2D.
+
+*Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/s192255-GameEngine/s192255-GameEngine/Source*
+
+As part of second year, we were tasked to create a basic implementation of a 2D Game Engine. We had to consider the following:
+* Rendering 			- SFML
+* User Input			- SFML
+* Resource Management	- Self Handled
+* Scene Management		- Self Handled
+* Physics				- Box2D
+
+Third party libraries handled most of the basic principles for the engine however all of the seperate parts of the engine had to be developed from scratch and they all come together to demonstrate a very basic proof of concept - showing a scene can be loaded in the game world with a playable character that can interact with the environment.
+
+My Game Engine was created in mind for a 2D Platforming/Puzzle game, where the player would have to move an object to a certain place in order to progress. Gameplay wasn't fully developed however concept is there.
+
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/GameEngine.PNG "The Game World created by the Game Engine")
+
+<br>
+<br>
+
+## Interactive AI Agents (C++)
+###### A second year project demonstrating the creation of various AI implementation including: Finite State Machines, Steering Behaviours and PathFinding.
+
+*Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/InteractiveAIAgents/InteractiveAgents2*
+
+This project here demonstrates the use of various AI implementation and how they work and all interact with eachother. Here we see a Pirate using Pathfinding to navigate the island looking for treasure (all controlled through a Finite State Machine) whilst a Skeleton makes use of Steering behaviours to navigate and track the Pirate down.
+
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PathFinding.gif "Gif Showing the Pathfinding/Traversal")
+![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/StateMachine.PNG "Image of the StateMachine of the pirate")
+
+<br>
+<br>
+
 ## Always a Bigger Fish (Mobile Game) (Unity / C#)
 ###### First year Group Project which is local 2 player mobile fishing based game where players compete to obtain the best haul of fish.
 
@@ -144,40 +178,6 @@ This game was my second year 12 week group project piece. We again had to follow
 *Playable at: https://alexturnbull.itch.io/past-echoes-group-4*
 
 ![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PastEchoes.gif "Gif Showing basic gameplay")
-
-<br>
-<br>
-
-## Interactive AI Agents (C++)
-###### A second year project demonstrating the creation of various AI implementation including: Finite State Machines, Steering Behaviours and PathFinding.
-
-*Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/InteractiveAIAgents/InteractiveAgents2*
-
-This project here demonstrates the use of various AI implementation and how they work and all interact with eachother. Here we see a Pirate using Pathfinding to navigate the island looking for treasure (all controlled through a Finite State Machine) whilst a Skeleton makes use of Steering behaviours to navigate and track the Pirate down.
-
-![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/PathFinding.gif "Gif Showing the Pathfinding/Traversal")
-![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/StateMachine.PNG "Image of the StateMachine of the pirate")
-
-<br>
-<br>
-
-## 2D Game Engine (C++)
-###### A second year project which is an implementation of a 2D Game Engine using SFML and Box2D.
-
-*Source Code can be found here: https://github.com/alex-turnbull/portfolio/tree/master/s192255-GameEngine/s192255-GameEngine/Source*
-
-As part of second year, we were tasked to create a basic implementation of a 2D Game Engine. We had to consider the following:
-* Rendering 			- SFML
-* User Input			- SFML
-* Resource Management	- Self Handled
-* Scene Management		- Self Handled
-* Physics				- Box2D
-
-Third party libraries handled most of the basic principles for the engine however all of the seperate parts of the engine had to be developed from scratch and they all come together to demonstrate a very basic proof of concept - showing a scene can be loaded in the game world with a playable character that can interact with the environment.
-
-My Game Engine was created in mind for a 2D Platforming/Puzzle game, where the player would have to move an object to a certain place in order to progress. Gameplay wasn't fully developed however concept is there.
-
-![](https://github.com/alex-turnbull/portfolio/blob/master/_Images/GameEngine.PNG "The Game World created by the Game Engine")
 
 <br>
 <br>
